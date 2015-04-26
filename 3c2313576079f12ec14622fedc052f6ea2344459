@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_01ebb9b0",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-26T02:57:59Z",
+      "side": 1,
+      "message": "Can remove the comments as the variable name suggests the function.",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_61d38d04",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-26T02:57:59Z",
+      "side": 1,
+      "message": "Can remove the TODO comments",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
