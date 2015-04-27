@@ -19,6 +19,40 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_c856e129",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1004751
+      },
+      "writtenOn": "2015-04-27T03:33:13Z",
+      "side": 1,
+      "message": "Probably should be a javadoc comment.",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_a853a537",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1004751
+      },
+      "writtenOn": "2015-04-27T03:33:13Z",
+      "side": 1,
+      "message": "Same as above",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_61d38d04",
         "filename": "src/pkg/trader/Trader.java",
         "patchSetId": 1
