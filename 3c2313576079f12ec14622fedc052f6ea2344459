@@ -67,6 +67,29 @@
       "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d1a84579",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1004804
+      },
+      "writtenOn": "2015-04-28T15:33:04Z",
+      "side": 1,
+      "message": "Can probably turn this into a javadoc",
+      "range": {
+        "startLine": 136,
+        "startChar": 6,
+        "endLine": 140,
+        "endChar": 21
+      },
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
