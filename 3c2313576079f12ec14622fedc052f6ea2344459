@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_dd9174f2",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T03:59:11Z",
+      "side": 1,
+      "message": "Variable \u0027m\u0027 not descriptive enough.",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_c856e129",
         "filename": "src/pkg/trader/Trader.java",
         "patchSetId": 1
@@ -47,6 +64,40 @@
       "writtenOn": "2015-04-27T03:33:13Z",
       "side": 1,
       "message": "Same as above",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_1dbf8c62",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T03:59:11Z",
+      "side": 1,
+      "message": "Remove unnecessary coment",
+      "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_bd8e38ce",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1004781
+      },
+      "writtenOn": "2015-04-29T03:59:11Z",
+      "side": 1,
+      "message": "Remove unnecessary comments",
       "revId": "3c2313576079f12ec14622fedc052f6ea2344459",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
